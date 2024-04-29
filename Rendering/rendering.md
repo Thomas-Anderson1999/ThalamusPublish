@@ -42,7 +42,8 @@ The light follows the pong light. There are three cases.
 The scene converts the Rodriguez rotation into a stack structure from a global coordinate system to a local coordinate system of the object.
 
 ![Script.txt](img/Rexp_003.png)
-The above equations show the rotation of V by $\theta$ about axis vector N.
+
+- The above equations show the rotation of V by $\theta$ about axis vector N.
 
 
 
